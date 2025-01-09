@@ -1,0 +1,11 @@
+							CRUD Input
+
+1. jalankan file addMahasiswa.jsp nya jika ingin run file
+2. terdapat beberapa data, dan untuk database nya sendiri yaitu : 
+	database : mahasiswa_db
+	table : mahasiswa
+	table value : id(primary), nim(uniq), nama, kode_kelas, mata_kuliah, program_studi
+
+NB : jika error saat run. pastikan file jar mysql-connector nya berada di folder C:\Users\asus\Downloads\(nama folder sql connectornya)
+NB : password (username : admin
+		password : admin123)
